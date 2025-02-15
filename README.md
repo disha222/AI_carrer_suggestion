@@ -71,7 +71,7 @@ Contributions are welcome! Feel free to fork the repo, make improvements, and su
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-For any queries, reach out at **your.email@example.com** or open an issue in the repository.
+For any queries, reach out at **nayakdisha222@gmail.com** or open an issue in the repository.
 
 ---
 **Let's build an AI-driven future for career success! 🚀**
